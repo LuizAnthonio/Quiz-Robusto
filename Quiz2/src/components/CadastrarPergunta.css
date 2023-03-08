@@ -1,0 +1,65 @@
+
+
+
+.cadastrar-pergunta{
+    width: 400px;
+    height: 12rem;
+    
+
+}
+
+form{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 2px;
+}
+
+.input input{
+    width: 300px;
+    height: 2rem;
+    border-radius: 10px;
+    border: 1px solid;
+    outline: none;
+    padding: 0 6px;
+    color: black;
+}
+
+.question{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    color: black;
+    padding: 10px;
+    outline: none;
+}
+
+.inputquestion{
+    text-align: center;
+}
+
+.select{
+    background: black;
+    color: yellow;
+    border: 1px solid;
+    width: 300px;
+    height: 2rem;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0 10px;
+    outline: none;
+
+    
+}
+
+
+
+
